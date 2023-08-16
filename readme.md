@@ -1,3 +1,5 @@
 Portfolio Programador Fullstack Carlos Saiz
 
-React | NODE |
+FRONTEND : REACT TYPESCRIPT
+
+BACKEND : NEST + MONGOOSE
